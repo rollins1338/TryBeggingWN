@@ -28,9 +28,8 @@
 
 <!-- Synopsis / Hook -->
 
-<p style="font-size: 1.1em; max-width: 600px; margin-top: 20px; margin-bottom: 20px; border-left: 4px solid #B8860B; padding-left: 15px; background-color: #FFF8E1;">
+
 Absoulue peak written by author [Libenia](https://x.com/_libenia_)
-</p>
 
 
 Translation taken from Scribed
