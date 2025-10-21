@@ -15,12 +15,11 @@
 </div>
 
 <p align="center">
-<!-- Styled Cover Image with softer corners and shadow -->
-<img src="./assets/Try-Begging.jpeg" alt="Try Begging Cover" style="max-width:400px; height:auto; border-radius:20px; box-shadow: 0 8px 16px rgba(128, 0, 0, 0.4);" />
-
-<em align="center"><i>Try Begging</i></em>
-
+  <img src="./assets/Try-Begging.jpeg" alt="trybegging-cover" style="max-width:100%;height:auto;" />
+  <br>
+  <em><i>Try Begging</i></em>
 </p>
+
 
 <!-- Left-aligned content starts here, giving a structured feel -->
 
