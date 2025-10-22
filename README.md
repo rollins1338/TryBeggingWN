@@ -31,7 +31,7 @@
 Absoulue peak written by author [Libenia](https://x.com/_libenia_)
 
 
-Translation taken from Scribed
+Translation taken from Scribd
 
 </p>
 
