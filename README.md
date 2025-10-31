@@ -1,3 +1,5 @@
+# working on a better translation and edits
+
 <div align="center">
 <!-- Dynamic Title Effect (Imperial, Cinzel font, Gold color, Smooth transition) -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=48&pause=1000000&color=FFD700&center=true&width=650&lines=Try+Begging&repeat=false&vCenter=true&style=smooth" alt="Typing Text Effect: Try Begging" />
@@ -31,7 +33,7 @@
 Absoulue peak written by author [Libenia](https://x.com/_libenia_)
 
 
-Translation taken from Scribd
+Translation taken from ....
 
 </p>
 
